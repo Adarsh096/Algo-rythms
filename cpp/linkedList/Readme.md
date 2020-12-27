@@ -14,6 +14,6 @@
     };
     ```
 > Q. Can we create an object of a class inside the same class in C++?
-> In C++ : You can not do this, As it will be recursive structure (no end for calculating object size) , to Overcome this problem, Use Self Referential Pointer i.e. the Pointer having the address of Same class type
+> <br/>In C++ : You can not do this, As it will be recursive structure (no end for calculating object size) , to Overcome this problem, Use Self Referential Pointer i.e. the Pointer having the address of Same class type
 
 * note pt 2
