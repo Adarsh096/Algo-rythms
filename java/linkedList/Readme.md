@@ -11,6 +11,7 @@ Yes, of course. Officially this is called ' Call By Reference'. You can create a
 Run the following script file to compile and run the project.
 
 ```bash
+$ mkdir classes
 $ chmod +x run.sh
 $ ./run.sh
 ```

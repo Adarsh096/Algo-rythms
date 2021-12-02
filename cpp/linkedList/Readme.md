@@ -23,6 +23,7 @@
 Run the command from the root of the project where the makefile is present :
 
 ```bash
+$ mkdir obj
 $ make
 ```
 
