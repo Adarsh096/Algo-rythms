@@ -17,3 +17,17 @@
 > <br/>In C++ : You can not do this, As it will be recursive structure (no end for calculating object size) , to Overcome this problem, Use Self Referential Pointer i.e. the Pointer having the address of Same class type
 
 * [Const keyworkd before and after the method name](https://stackoverflow.com/questions/15999123/const-before-parameter-vs-const-after-function-name-c/15999237)
+
+
+### Building 
+Run the command from the root of the project where the makefile is present :
+
+```bash
+$ make
+```
+
+### Executing 
+Run the compiled binary app `myapp`
+```bash
+$ ./myapp
+```
