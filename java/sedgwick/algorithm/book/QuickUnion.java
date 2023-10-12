@@ -20,6 +20,7 @@ public class QuickUnion {
         Each union calls find() twice which eventually will need to traverse
         the entire tree if we have just a single branched tree.
         Over all this has time complexity little faster than quadratic.
+        Improvement of this algorithm is weighted quick union.
      */
     public void union(int p, int q){
         // simply attaching p to q will not work as we need to move the entire branch of p and connect to q's root.
