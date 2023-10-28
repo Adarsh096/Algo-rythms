@@ -1,4 +1,4 @@
-package sedgwick.algorithm.book;
+package sedgwick.algorithm.book.chapter1;
 
 import java.util.Iterator;
 
